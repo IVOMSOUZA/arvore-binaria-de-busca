@@ -1,0 +1,2 @@
+o arquivo texto (arquivo.txt) esta setado para funcionar se estiver nesse caminho:
+C:\ArvoreABB\src\arvore
